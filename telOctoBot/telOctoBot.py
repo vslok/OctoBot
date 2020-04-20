@@ -197,8 +197,8 @@ def phrase_query(string):
 
 def queryFreq(term, query):
     count = 0
-    queryls = tokenize_n_lemmatize(query)
-    for word in queryls:
+    # queryls = tokenize_n_lemmatize(query)
+    for word in query:
         if word == term:
             count += 1
     return count
@@ -217,11 +217,11 @@ def query_vec(query):
 	queryVec = [0]*len(queryls)
 	index = 0
 	for ind, word in enumerate(queryls):
-		queryVec[index] = queryFreq(word, query)
+		queryVec[index] = queryFreq(word, queryls)
 		index += 1
 	queryidf = [idf[word] for word in dictionary.keys()]
 	magnitude = pow(sum(map(lambda x: x**2, queryVec)),.5)
-	freq = termfreq(dictionary.keys(), query)
+	freq = termfreq(dictionary.keys(), queryls)
 	#print('THIS IS THE FREQ')
 	tf = [x/magnitude for x in freq]
 	final = [tf[i]*queryidf[i] for i in range(len(dictionary.keys()))]
@@ -379,9 +379,9 @@ tf, df, idf = tf_df_idf_load()
 files_vectors = files_vectors_load()
 
 def dotProduct(doc1, doc2):
-		if len(doc1) != len(doc2):
-			return 0
-		return sum([x*y for x,y in zip(doc1, doc2)])
+	if len(doc1) != len(doc2):
+		return 0
+	return sum([x*y for x,y in zip(doc1, doc2)])
 
 def rankResults(resultDocs, query):
 	# print(vectors)
@@ -401,8 +401,9 @@ def rankResults(resultDocs, query):
 #     answer = cor.index(max(cor))
 #     return data[answer]['text_path']
 
-# def bot_response(user_response):
-#     res = 
+def bot_response(user_response):
+    res = free_text_query(user_response).pop()
+    return res
 
 @bot.message_handler(commands=['start'])
 def start_message(message):
@@ -425,4 +426,4 @@ def handle_text_messages(message):
 
 
 # if __name__ =='__main__':
-# bot.polling()
+bot.polling()
