@@ -1,3 +1,5 @@
+# https://habr.com/ru/post/263983/
+
 import os
 import nltk
 from pathlib import Path
@@ -390,7 +392,7 @@ def rankResults(resultDocs, query):
 	results = [[dotProduct(files_vectors[result], queryVec), result]
 	                       for result in resultDocs]
 	# print(results)
-	results.sort(key=lambda x: x[0])
+	results.sort(key=lambda x: x[0], reverse = True, )
 	# print(results)
 	results = [x[1] for x in results]
 	return results
@@ -402,8 +404,11 @@ def rankResults(resultDocs, query):
 #     return data[answer]['text_path']
 
 def bot_response(user_response):
-    res = free_text_query(user_response).pop()
-    return res
+    res = free_text_query(user_response)
+    if len(res)>3:
+        return res[:3]
+    else:
+        return res
 
 @bot.message_handler(commands=['start'])
 def start_message(message):
@@ -420,9 +425,18 @@ def handle_text_messages(message):
         bot.send_message(message.from_user.id, 'Мур :* \n До встречи!')
     else:
         path = bot_response(res_message)
-        bot.send_message(message.from_user.id, "Может быть это поможет?")
-        doc = open(path, 'rb')
-        bot.send_document(message.from_user.id, doc)
+        res_len = len(path)
+        if res_len!= 0:
+            bot.send_message(message.from_user.id, "Может быть это поможет?")
+            doc = open(path[0], 'rb')
+            bot.send_document(message.from_user.id, doc)
+        if res_len >1:
+            bot.send_message(message.from_user.id, "Или это")
+            for i in range(len(path[1:res_len])):
+                doc = open(path[i+1], 'rb')
+                bot.send_document(message.from_user.id, doc)
+        if res_len == 0:
+            bot.send_message(message.from_user_id, 'Я не могу помочь')
 
 
 # if __name__ =='__main__':
