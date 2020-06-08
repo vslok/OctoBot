@@ -42,6 +42,9 @@
     "/home/vslok/chatBots/telOctoBot/texts/Учет индивидуальных достижений.txt": [
       19
     ],
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      16
+    ],
     "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
       1,
       4,
@@ -209,6 +212,9 @@
     ],
     "/home/vslok/chatBots/telOctoBot/texts/Учет индивидуальных достижений.txt": [
       17
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      9
     ],
     "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
       6,
@@ -425,6 +431,9 @@
   "обучающийся": {
     "/home/vslok/chatBots/telOctoBot/texts/Оплата обучения.txt": [
       3
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      10
     ],
     "/home/vslok/chatBots/telOctoBot/texts/Академический_отпуск.txt": [
       31
@@ -861,6 +870,12 @@
       42,
       71
     ],
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      73,
+      83,
+      89,
+      95
+    ],
     "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
       14,
       107
@@ -1029,6 +1044,10 @@
     "/home/vslok/chatBots/telOctoBot/texts/Оплата обучения.txt": [
       78,
       85
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      0,
+      3
     ],
     "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
       51
@@ -1374,6 +1393,9 @@
   "счёт": {
     "/home/vslok/chatBots/telOctoBot/texts/Оплата обучения.txt": [
       100
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      11
     ],
     "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
       31
@@ -2919,6 +2941,9 @@
     "/home/vslok/chatBots/telOctoBot/texts/Учет индивидуальных достижений.txt": [
       18
     ],
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      8
+    ],
     "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
       31
     ],
@@ -3392,6 +3417,9 @@
     "/home/vslok/chatBots/telOctoBot/texts/Учет индивидуальных достижений.txt": [
       60
     ],
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      60
+    ],
     "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
       32
     ],
@@ -3558,6 +3586,9 @@
   "установленный": {
     "/home/vslok/chatBots/telOctoBot/texts/Учет индивидуальных достижений.txt": [
       84
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      66
     ],
     "/home/vslok/chatBots/telOctoBot/texts/Академический_отпуск.txt": [
       89
@@ -3811,6 +3842,9 @@
   "учитываться": {
     "/home/vslok/chatBots/telOctoBot/texts/Учет индивидуальных достижений.txt": [
       118
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      54
     ],
     "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
       119
@@ -4219,6 +4253,1050 @@
       149
     ]
   },
+  "академический": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      1,
+      4,
+      47
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Академический_отпуск.txt": [
+      0,
+      7,
+      10,
+      12,
+      26,
+      35,
+      54,
+      61,
+      70,
+      131
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      17,
+      53,
+      99
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Восстановление.txt": [
+      41,
+      47
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Отчисление.txt": [
+      78
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
+      162
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      390
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      141,
+      173,
+      193
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
+      113
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Прохождение итоговой аттестации экстерном.txt": [
+      46,
+      54,
+      93,
+      108
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
+      298
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
+      17
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
+      3
+    ]
+  },
+  "стипендия": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      2,
+      5,
+      7,
+      28,
+      32,
+      39,
+      43,
+      53,
+      63
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
+      0,
+      8,
+      20,
+      37,
+      66
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
+      2,
+      6,
+      98,
+      113,
+      120,
+      130,
+      150,
+      154,
+      168,
+      176,
+      181
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      0,
+      172,
+      202,
+      228,
+      234,
+      286,
+      320,
+      325,
+      365,
+      417,
+      423,
+      464,
+      478,
+      497,
+      505
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
+      0,
+      8,
+      16,
+      57,
+      65
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Зачет индивидуальных достижений студента.txt": [
+      50
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
+      32
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
+      145,
+      175
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
+      4,
+      22,
+      102
+    ]
+  },
+  "гаснуть": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      6,
+      17,
+      75
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
+      183
+    ]
+  },
+  "бюджет": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      12
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      84
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
+      159
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Проходные баллы.txt": [
+      22
+    ]
+  },
+  "государство": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      13
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
+      119
+    ]
+  },
+  "очный": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      14
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      5
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Сроки подачи документов.txt": [
+      27
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены. Перечень.txt": [
+      11
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
+      3
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
+      28
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Олимпиады для абитуриентов.txt": [
+      97,
+      106,
+      139,
+      155
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Список документов для поступления.txt": [
+      3
+    ]
+  },
+  "форма": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      15
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
+      50,
+      53,
+      128
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      6
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Сроки подачи документов.txt": [
+      28,
+      90,
+      94
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительыне экзамены. Формы.txt": [
+      2,
+      9
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      13,
+      22,
+      76,
+      85,
+      211
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены. Перечень.txt": [
+      12,
+      22
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Способы подачи документов.txt": [
+      40
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
+      4
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация в условиях дистанционного обучения.txt": [
+      58,
+      127
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены для лиц с ОВЗ.txt": [
+      118,
+      148
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
+      29,
+      33
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Олимпиады для абитуриентов.txt": [
+      99,
+      107,
+      189
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Список документов для поступления.txt": [
+      4,
+      30,
+      86,
+      91
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
+      177
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
+      69,
+      78,
+      116,
+      130
+    ]
+  },
+  "назначаться": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      18,
+      25
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
+      99,
+      121,
+      155,
+      177
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      3,
+      204,
+      367
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
+      2
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      163
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
+      5,
+      64,
+      72,
+      103
+    ]
+  },
+  "зависимость": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      19
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
+      4
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      8
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Сроки подачи документов.txt": [
+      8
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
+      4
+    ]
+  },
+  "успех": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      20
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
+      7,
+      65,
+      90
+    ]
+  },
+  "учёба": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      21
+    ]
+  },
+  "сдача": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      22,
+      29,
+      35,
+      79,
+      84,
+      90
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Минимальные баллы.txt": [
+      7
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      109
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
+      60
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Подготовительные курсы.txt": [
+      4
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительыне экзамены. Формы.txt": [
+      26,
+      32,
+      118
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      268
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены для лиц с ОВЗ.txt": [
+      14,
+      17,
+      26,
+      31
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
+      23,
+      108,
+      115,
+      125,
+      185
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
+      278
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
+      25
+    ]
+  },
+  "сессия": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      23,
+      30,
+      36,
+      80,
+      85,
+      91
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      42,
+      176
+    ]
+  },
+  "оценка": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      24,
+      49,
+      55,
+      81,
+      86,
+      92
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
+      80
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      116,
+      241
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
+      126
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
+      160
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      215,
+      219,
+      221,
+      358,
+      376,
+      380,
+      382
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
+      79
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      30,
+      100,
+      108,
+      204
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
+      214,
+      223
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
+      271,
+      272
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Аппеляция вступительных экзаменов.txt": [
+      27,
+      98
+    ]
+  },
+  "базовый": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      26,
+      34,
+      41
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Индивидуальный план.txt": [
+      24
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
+      56
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
+      63
+    ]
+  },
+  "размер": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      27,
+      38,
+      42,
+      70,
+      74
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
+      11,
+      48
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
+      78
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
+      74
+    ]
+  },
+  "отлично": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      31,
+      37,
+      87,
+      93
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      117,
+      118
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      216,
+      359,
+      377
+    ]
+  },
+  "увеличиваться": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      33,
+      40
+    ]
+  },
+  "выплачиваться": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      44
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
+      114
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
+      110
+    ]
+  },
+  "условие": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      45
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Академический_отпуск.txt": [
+      48
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      3,
+      108,
+      180
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
+      3
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Восстановление.txt": [
+      73,
+      94
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Отчисление.txt": [
+      87
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Правила проживания в общежитии.txt": [
+      10,
+      235,
+      292
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      212,
+      323,
+      360,
+      373,
+      500
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Прохождение итоговой аттестации экстерном.txt": [
+      105
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация в условиях дистанционного обучения.txt": [
+      2,
+      62,
+      83
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены для лиц с ОВЗ.txt": [
+      41,
+      110,
+      157
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
+      27
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
+      28,
+      153,
+      229
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
+      75
+    ]
+  },
+  "отсутствие": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      46
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Правила проживания в общежитии.txt": [
+      213
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      220,
+      381,
+      389
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      132
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Прохождение итоговой аттестации экстерном.txt": [
+      106
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены для лиц с ОВЗ.txt": [
+      134
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
+      189,
+      208,
+      217,
+      295
+    ]
+  },
+  "задолженность": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      48
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      100,
+      103
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Восстановление.txt": [
+      42
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
+      163
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      391
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      142,
+      174,
+      194
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
+      299
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
+      18
+    ]
+  },
+  "удовлетворительно": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      50
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
+      161
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      222,
+      383
+    ]
+  },
+  "экзамен": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      51
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      110
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены. Программы.txt": [
+      1,
+      4
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Сроки подачи документов.txt": [
+      13
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительыне экзамены. Формы.txt": [
+      1,
+      4,
+      28,
+      33,
+      42,
+      95,
+      120,
+      139
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      31,
+      35,
+      48,
+      49,
+      55,
+      60,
+      73,
+      90
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены. Перечень.txt": [
+      1,
+      4
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация в условиях дистанционного обучения.txt": [
+      100,
+      118,
+      177
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены для лиц с ОВЗ.txt": [
+      1,
+      16,
+      19,
+      27,
+      32
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
+      20,
+      24,
+      33,
+      68,
+      109,
+      121,
+      126,
+      186
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Список документов для поступления.txt": [
+      71
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Аппеляция вступительных экзаменов.txt": [
+      2,
+      5,
+      14,
+      32,
+      45
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
+      52,
+      71,
+      80,
+      84,
+      88,
+      94,
+      98,
+      109,
+      114,
+      122,
+      136
+    ]
+  },
+  "назначение": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      52
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      227,
+      233,
+      285,
+      416,
+      422,
+      463,
+      477
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Способы подачи документов.txt": [
+      58
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
+      78
+    ]
+  },
+  "практика": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      56
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
+      42
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      237
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
+      152
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      189
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
+      1,
+      3,
+      15,
+      18,
+      32,
+      48,
+      49,
+      53,
+      56,
+      60,
+      73,
+      82,
+      87,
+      95,
+      98,
+      113,
+      119,
+      123,
+      132,
+      135,
+      138,
+      145,
+      151,
+      162,
+      169,
+      172,
+      182,
+      195,
+      205,
+      215,
+      220,
+      227,
+      251,
+      253,
+      259,
+      261,
+      265,
+      274,
+      283,
+      287,
+      290,
+      307
+    ]
+  },
+  "курсовой": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      57
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      33
+    ]
+  },
+  "проект": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      58
+    ]
+  },
+  "студент-первокурсник": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      59
+    ]
+  },
+  "семестр": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      61
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
+      16,
+      39
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
+      7,
+      18,
+      28,
+      79,
+      86
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      6,
+      28,
+      111
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Восстановление.txt": [
+      102,
+      109
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      205
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
+      7,
+      14,
+      25,
+      78,
+      85
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      149,
+      207,
+      226,
+      229,
+      242
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
+      93
+    ]
+  },
+  "начисляться": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      62
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
+      74
+    ]
+  },
+  "соответствие": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      64
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
+      93,
+      143
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Правила проживания в общежитии.txt": [
+      72,
+      189
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Вступительыне экзамены. Формы.txt": [
+      86
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Индивидуальный план.txt": [
+      61
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация в условиях дистанционного обучения.txt": [
+      108
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
+      100
+    ]
+  },
+  "норматив": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      65
+    ]
+  },
+  "правительство": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      67
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      1,
+      173,
+      203,
+      326
+    ]
+  },
+  "2019-2020": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      68,
+      76
+    ]
+  },
+  "учебный": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      69,
+      77
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
+      47
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Минимальные баллы.txt": [
+      13
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
+      19
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Академический_отпуск.txt": [
+      143
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      62,
+      211,
+      231
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
+      91
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Восстановление.txt": [
+      13,
+      29,
+      39
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Отчисление.txt": [
+      26,
+      74
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
+      278,
+      368,
+      410
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
+      15
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      186,
+      206,
+      244,
+      248
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Проходные баллы.txt": [
+      25
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Прохождение итоговой аттестации экстерном.txt": [
+      36
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Индивидуальный план.txt": [
+      34
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация в условиях дистанционного обучения.txt": [
+      20
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
+      150
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
+      16,
+      59,
+      75,
+      85,
+      184
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
+      12,
+      22
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
+      8
+    ]
+  },
+  "составлять": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      71
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
+      52
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
+      80
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
+      116
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
+      262
+    ],
+    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
+      132
+    ]
+  },
+  "1697": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      72
+    ]
+  },
+  "а.переть": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      78
+    ]
+  },
+  "2800": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      82
+    ]
+  },
+  "3500": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      88
+    ]
+  },
+  "4200": {
+    "/home/vslok/chatBots/telOctoBot/texts/Государственная академическая стипендия.txt": [
+      94
+    ]
+  },
   "ускоренный": {
     "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
       0,
@@ -4350,48 +5428,6 @@
     "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
       9,
       21
-    ]
-  },
-  "семестр": {
-    "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
-      16,
-      39
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
-      7,
-      18,
-      28,
-      79,
-      86
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      6,
-      28,
-      111
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Восстановление.txt": [
-      102,
-      109
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      205
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
-      7,
-      14,
-      25,
-      78,
-      85
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      149,
-      207,
-      226,
-      229,
-      242
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
-      93
     ]
   },
   "производиться": {
@@ -4597,64 +5633,6 @@
       38
     ]
   },
-  "практика": {
-    "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
-      42
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      237
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
-      152
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      189
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
-      1,
-      3,
-      15,
-      18,
-      32,
-      48,
-      49,
-      53,
-      56,
-      60,
-      73,
-      82,
-      87,
-      95,
-      98,
-      113,
-      119,
-      123,
-      132,
-      135,
-      138,
-      145,
-      151,
-      162,
-      169,
-      172,
-      182,
-      195,
-      205,
-      215,
-      220,
-      227,
-      251,
-      253,
-      259,
-      261,
-      265,
-      274,
-      283,
-      287,
-      290,
-      307
-    ]
-  },
   "оставаться": {
     "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
       43
@@ -4689,80 +5667,6 @@
     "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
       7,
       243
-    ]
-  },
-  "учебный": {
-    "/home/vslok/chatBots/telOctoBot/texts/Ускоренное обучение.txt": [
-      47
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Минимальные баллы.txt": [
-      13
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
-      19
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Академический_отпуск.txt": [
-      143
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      62,
-      211,
-      231
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
-      91
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Восстановление.txt": [
-      13,
-      29,
-      39
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Отчисление.txt": [
-      26,
-      74
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      278,
-      368,
-      410
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
-      15
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      186,
-      206,
-      244,
-      248
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Проходные баллы.txt": [
-      25
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Прохождение итоговой аттестации экстерном.txt": [
-      36
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Индивидуальный план.txt": [
-      34
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация в условиях дистанционного обучения.txt": [
-      20
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
-      150
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
-      16,
-      59,
-      75,
-      85,
-      184
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
-      12,
-      22
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
-      8
     ]
   },
   "проходить": {
@@ -5134,47 +6038,6 @@
       14
     ]
   },
-  "сдача": {
-    "/home/vslok/chatBots/telOctoBot/texts/Минимальные баллы.txt": [
-      7
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      109
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
-      60
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Подготовительные курсы.txt": [
-      4
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительыне экзамены. Формы.txt": [
-      26,
-      32,
-      118
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      268
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены для лиц с ОВЗ.txt": [
-      14,
-      17,
-      26,
-      31
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
-      23,
-      108,
-      115,
-      125,
-      185
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
-      278
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
-      25
-    ]
-  },
   "поступить": {
     "/home/vslok/chatBots/telOctoBot/texts/Минимальные баллы.txt": [
       11
@@ -5533,67 +6396,6 @@
       56
     ]
   },
-  "стипендия": {
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
-      0,
-      8,
-      20,
-      37,
-      66
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
-      2,
-      6,
-      98,
-      113,
-      120,
-      130,
-      150,
-      154,
-      168,
-      176,
-      181
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      0,
-      172,
-      202,
-      228,
-      234,
-      286,
-      320,
-      325,
-      365,
-      417,
-      423,
-      464,
-      478,
-      497,
-      505
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
-      0,
-      8,
-      16,
-      57,
-      65
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Зачет индивидуальных достижений студента.txt": [
-      50
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
-      32
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
-      145,
-      175
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
-      4,
-      22,
-      102
-    ]
-  },
   "миронов": {
     "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
       1,
@@ -5615,20 +6417,6 @@
     ],
     "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
       173
-    ]
-  },
-  "зависимость": {
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
-      4
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      8
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Сроки подачи документов.txt": [
-      8
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
-      4
     ]
   },
   "предназначить": {
@@ -6122,51 +6910,6 @@
       65
     ]
   },
-  "оценка": {
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
-      80
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      116,
-      241
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
-      126
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
-      160
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      215,
-      219,
-      221,
-      358,
-      376,
-      380,
-      382
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
-      79
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      30,
-      100,
-      108,
-      204
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
-      214,
-      223
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
-      271,
-      272
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Аппеляция вступительных экзаменов.txt": [
-      27,
-      98
-    ]
-  },
   "успеваемость": {
     "/home/vslok/chatBots/telOctoBot/texts/Стипендия Миронова.txt": [
       82
@@ -6201,61 +6944,6 @@
     ],
     "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
       83
-    ]
-  },
-  "академический": {
-    "/home/vslok/chatBots/telOctoBot/texts/Академический_отпуск.txt": [
-      0,
-      7,
-      10,
-      12,
-      26,
-      35,
-      54,
-      61,
-      70,
-      131
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      17,
-      53,
-      99
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Восстановление.txt": [
-      41,
-      47
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Отчисление.txt": [
-      78
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
-      162
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      390
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      141,
-      173,
-      193
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
-      113
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Прохождение итоговой аттестации экстерном.txt": [
-      46,
-      54,
-      93,
-      108
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
-      298
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
-      17
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
-      3
     ]
   },
   "отпуск": {
@@ -6536,62 +7224,6 @@
     ],
     "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
       81
-    ]
-  },
-  "условие": {
-    "/home/vslok/chatBots/telOctoBot/texts/Академический_отпуск.txt": [
-      48
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      3,
-      108,
-      180
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
-      3
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Восстановление.txt": [
-      73,
-      94
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Отчисление.txt": [
-      87
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Правила проживания в общежитии.txt": [
-      10,
-      235,
-      292
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      212,
-      323,
-      360,
-      373,
-      500
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Прохождение итоговой аттестации экстерном.txt": [
-      105
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация в условиях дистанционного обучения.txt": [
-      2,
-      62,
-      83
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены для лиц с ОВЗ.txt": [
-      41,
-      110,
-      157
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
-      27
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
-      28,
-      153,
-      229
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
-      75
     ]
   },
   "проживать": {
@@ -7283,23 +7915,6 @@
       48
     ]
   },
-  "составлять": {
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      52
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      80
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
-      116
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
-      262
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
-      132
-    ]
-  },
   "зачисление": {
     "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
       55,
@@ -7423,17 +8038,6 @@
       81
     ]
   },
-  "бюджет": {
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      84
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
-      159
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Проходные баллы.txt": [
-      22
-    ]
-  },
   "свободный": {
     "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
       92
@@ -7484,32 +8088,6 @@
       280
     ]
   },
-  "задолженность": {
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      100,
-      103
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Восстановление.txt": [
-      42
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
-      163
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      391
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      142,
-      174,
-      194
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
-      299
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
-      18
-    ]
-  },
   "дисциплинарный": {
     "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
       101
@@ -7549,87 +8127,6 @@
       202
     ]
   },
-  "экзамен": {
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      110
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены. Программы.txt": [
-      1,
-      4
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Сроки подачи документов.txt": [
-      13
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительыне экзамены. Формы.txt": [
-      1,
-      4,
-      28,
-      33,
-      42,
-      95,
-      120,
-      139
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      31,
-      35,
-      48,
-      49,
-      55,
-      60,
-      73,
-      90
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены. Перечень.txt": [
-      1,
-      4
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация в условиях дистанционного обучения.txt": [
-      100,
-      118,
-      177
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены для лиц с ОВЗ.txt": [
-      1,
-      16,
-      19,
-      27,
-      32
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
-      20,
-      24,
-      33,
-      68,
-      109,
-      121,
-      126,
-      186
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Список документов для поступления.txt": [
-      71
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Аппеляция вступительных экзаменов.txt": [
-      2,
-      5,
-      14,
-      32,
-      45
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
-      52,
-      71,
-      80,
-      84,
-      88,
-      94,
-      98,
-      109,
-      114,
-      122,
-      136
-    ]
-  },
   "предшествовать": {
     "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
       113
@@ -7641,17 +8138,6 @@
       421,
       462,
       476
-    ]
-  },
-  "отлично": {
-    "/home/vslok/chatBots/telOctoBot/texts/Перевод.txt": [
-      117,
-      118
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      216,
-      359,
-      377
     ]
   },
   "отнесение": {
@@ -8571,74 +9057,6 @@
       49
     ]
   },
-  "форма": {
-    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
-      50,
-      53,
-      128
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      6
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Сроки подачи документов.txt": [
-      28,
-      90,
-      94
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительыне экзамены. Формы.txt": [
-      2,
-      9
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      13,
-      22,
-      76,
-      85,
-      211
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены. Перечень.txt": [
-      12,
-      22
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Способы подачи документов.txt": [
-      40
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
-      4
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация в условиях дистанционного обучения.txt": [
-      58,
-      127
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены для лиц с ОВЗ.txt": [
-      118,
-      148
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
-      29,
-      33
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Олимпиады для абитуриентов.txt": [
-      99,
-      107,
-      189
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Список документов для поступления.txt": [
-      4,
-      30,
-      86,
-      91
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
-      177
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
-      69,
-      78,
-      116,
-      130
-    ]
-  },
   "выбрать": {
     "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
       52
@@ -8884,28 +9302,6 @@
   "адаптировать": {
     "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
       90
-    ]
-  },
-  "соответствие": {
-    "/home/vslok/chatBots/telOctoBot/texts/Обучение людей с ОВЗ.txt": [
-      93,
-      143
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Правила проживания в общежитии.txt": [
-      72,
-      189
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительыне экзамены. Формы.txt": [
-      86
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Индивидуальный план.txt": [
-      61
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация в условиях дистанционного обучения.txt": [
-      108
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
-      100
     ]
   },
   "введение": {
@@ -10086,31 +10482,6 @@
       90
     ]
   },
-  "назначаться": {
-    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
-      99,
-      121,
-      155,
-      177
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      3,
-      204,
-      367
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендия Сретенского.txt": [
-      2
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      163
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
-      5,
-      64,
-      72,
-      103
-    ]
-  },
   "отношение": {
     "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
       104
@@ -10130,19 +10501,6 @@
   "бессрочный": {
     "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
       111
-    ]
-  },
-  "выплачиваться": {
-    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
-      114
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
-      110
-    ]
-  },
-  "государство": {
-    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
-      119
     ]
   },
   "орган": {
@@ -10185,23 +10543,9 @@
       166
     ]
   },
-  "удовлетворительно": {
-    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
-      161
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      222,
-      383
-    ]
-  },
   "вместо": {
     "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
       178
-    ]
-  },
-  "гаснуть": {
-    "/home/vslok/chatBots/telOctoBot/texts/Социальная стипендия.txt": [
-      183
     ]
   },
   "соблюдать": {
@@ -10858,31 +11202,6 @@
       208
     ]
   },
-  "отсутствие": {
-    "/home/vslok/chatBots/telOctoBot/texts/Правила проживания в общежитии.txt": [
-      213
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      220,
-      381,
-      389
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      132
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Прохождение итоговой аттестации экстерном.txt": [
-      106
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены для лиц с ОВЗ.txt": [
-      134
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
-      189,
-      208,
-      217,
-      295
-    ]
-  },
   "предупреждение": {
     "/home/vslok/chatBots/telOctoBot/texts/Правила проживания в общежитии.txt": [
       217
@@ -11176,45 +11495,11 @@
       49
     ]
   },
-  "правительство": {
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      1,
-      173,
-      203,
-      326
-    ]
-  },
   "президент": {
     "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
       2,
       174,
       366
-    ]
-  },
-  "очный": {
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      5
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Сроки подачи документов.txt": [
-      27
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Вступительные экзамены. Перечень.txt": [
-      11
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
-      3
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
-      28
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Олимпиады для абитуриентов.txt": [
-      97,
-      106,
-      139,
-      155
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Список документов для поступления.txt": [
-      3
     ]
   },
   "соответствующий": {
@@ -11886,23 +12171,6 @@
     ],
     "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
       249
-    ]
-  },
-  "назначение": {
-    "/home/vslok/chatBots/telOctoBot/texts/Стипендии Правительства РФ и Президента РФ.txt": [
-      227,
-      233,
-      285,
-      416,
-      422,
-      463,
-      477
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Способы подачи документов.txt": [
-      58
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
-      78
     ]
   },
   "обязательно": {
@@ -12983,11 +13251,6 @@
       198
     ]
   },
-  "курсовой": {
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      33
-    ]
-  },
   "зимний": {
     "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
       40
@@ -12997,12 +13260,6 @@
     "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
       41,
       175
-    ]
-  },
-  "сессия": {
-    "/home/vslok/chatBots/telOctoBot/texts/Промежуточная и текущие аттестации.txt": [
-      42,
-      176
     ]
   },
   "зачётный": {
@@ -13797,18 +14054,6 @@
       7
     ]
   },
-  "размер": {
-    "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
-      11,
-      48
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
-      78
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
-      74
-    ]
-  },
   "5000": {
     "/home/vslok/chatBots/telOctoBot/texts/Материальная помощь.txt": [
       13
@@ -14407,17 +14652,6 @@
   "объесть": {
     "/home/vslok/chatBots/telOctoBot/texts/Индивидуальный план.txt": [
       21
-    ]
-  },
-  "базовый": {
-    "/home/vslok/chatBots/telOctoBot/texts/Индивидуальный план.txt": [
-      24
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Как пересдать ЕГЭ.txt": [
-      56
-    ],
-    "/home/vslok/chatBots/telOctoBot/texts/Организация практики.txt": [
-      63
     ]
   },
   "заменяться": {
@@ -15186,11 +15420,6 @@
   "пеня": {
     "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
       73
-    ]
-  },
-  "начисляться": {
-    "/home/vslok/chatBots/telOctoBot/texts/Правила оплаты.txt": [
-      74
     ]
   },
   "ежедневно": {
@@ -16647,13 +16876,6 @@
   "новое": {
     "/home/vslok/chatBots/telOctoBot/texts/Итоговая аттестация.txt": [
       326
-    ]
-  },
-  "успех": {
-    "/home/vslok/chatBots/telOctoBot/texts/ПГАС.txt": [
-      7,
-      65,
-      90
     ]
   },
   "культурно-творческий": {
